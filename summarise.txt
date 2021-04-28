@@ -1,0 +1,19 @@
+
+
+container
+    life cycle
+    create
+    start
+    create + start
+    interaction
+    stop
+    clear
+
+image
+    dockerfile
+        use an existing docker image as a base
+        dowload and install a dependency
+        tell the image what to do when it starts
+
+    cmd
+        docker build
